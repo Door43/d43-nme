@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nme:home|Door43 (nme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nme|d43-nme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nme/archive/master.zip|d43-nme.zip]]
+
+**Recent Changes**
+{{changes>ns = nme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nme|Ethnologue data]]
+
